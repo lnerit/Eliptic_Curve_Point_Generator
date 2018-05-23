@@ -1,0 +1,17 @@
+C:\Users\Lenz L Nerit\Documents\UNITECH LECTURE NOTES\Mod23\Mod23\Mod23\bin\x86\Release\Mod23.exe.config
+C:\Users\Lenz L Nerit\Documents\UNITECH LECTURE NOTES\Mod23\Mod23\Mod23\bin\x86\Release\Mod23.exe
+C:\Users\Lenz L Nerit\Documents\UNITECH LECTURE NOTES\Mod23\Mod23\Mod23\bin\x86\Release\Mod23.pdb
+C:\Users\Lenz L Nerit\Documents\UNITECH LECTURE NOTES\Mod23\Mod23\Mod23\obj\x86\Release\Mod23.Form1.resources
+C:\Users\Lenz L Nerit\Documents\UNITECH LECTURE NOTES\Mod23\Mod23\Mod23\obj\x86\Release\Mod23.Properties.Resources.resources
+C:\Users\Lenz L Nerit\Documents\UNITECH LECTURE NOTES\Mod23\Mod23\Mod23\obj\x86\Release\Mod23.csproj.GenerateResource.Cache
+C:\Users\Lenz L Nerit\Documents\UNITECH LECTURE NOTES\Mod23\Mod23\Mod23\obj\x86\Release\Mod23.exe
+C:\Users\Lenz L Nerit\Documents\UNITECH LECTURE NOTES\Mod23\Mod23\Mod23\obj\x86\Release\Mod23.pdb
+C:\Users\Lenz L Nerit\Documents\UNITECH LECTURE NOTES\Mod23_C#\Mod23\Mod23\bin\x86\Release\Mod23.exe.config
+C:\Users\Lenz L Nerit\Documents\UNITECH LECTURE NOTES\Mod23_C#\Mod23\Mod23\obj\x86\Release\Mod23.exe
+C:\Users\Lenz L Nerit\Documents\UNITECH LECTURE NOTES\Mod23_C#\Mod23\Mod23\obj\x86\Release\Mod23.pdb
+C:\Users\Lenz L Nerit\Documents\UNITECH LECTURE NOTES\Mod23_C#\Mod23\Mod23\bin\x86\Release\Mod23.exe
+C:\Users\Lenz L Nerit\Documents\UNITECH LECTURE NOTES\Mod23_C#\Mod23\Mod23\bin\x86\Release\Mod23.pdb
+C:\Users\Lenz L Nerit\Documents\UNITECH LECTURE NOTES\Mod23_C#\Mod23\Mod23\obj\x86\Release\Mod23.csprojResolveAssemblyReference.cache
+C:\Users\Lenz L Nerit\Documents\UNITECH LECTURE NOTES\Mod23_C#\Mod23\Mod23\obj\x86\Release\Mod23.Form1.resources
+C:\Users\Lenz L Nerit\Documents\UNITECH LECTURE NOTES\Mod23_C#\Mod23\Mod23\obj\x86\Release\Mod23.Properties.Resources.resources
+C:\Users\Lenz L Nerit\Documents\UNITECH LECTURE NOTES\Mod23_C#\Mod23\Mod23\obj\x86\Release\Mod23.csproj.GenerateResource.Cache
